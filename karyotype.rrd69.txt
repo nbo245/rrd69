@@ -1,0 +1,7 @@
+# generated using info from final.assembly.fasta
+chr - rrd69_1 I 0 1017487 black
+chr - rrd69_2 II 0 975148 black
+chr - rrd69_3 III 0 901200 black
+chr - rrd69_4 IV 0 761812 black
+chr - rrd69_5 V 0 59190 black
+# everything mapped to 5 scaffolds
